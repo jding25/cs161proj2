@@ -10,6 +10,6 @@ The client will be written in Golang and will allow users to take the following 
 - Share saved files with other users; and
 - Revoke access to previously shared files.
 
-Implementation is in `client/client.go`, and tests are in `client_test/client_test.go`.
+Implementation is in `client.go`, and tests are in `client_test.go`.
 
 
