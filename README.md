@@ -1,4 +1,4 @@
-Secure File Sharing System
+Secure File Sharing System (Berkeley CS161 proj2)
 
 The client will be written in Golang and will allow users to take the following actions:
 
